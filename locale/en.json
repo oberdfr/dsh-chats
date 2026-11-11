@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Chats",
+    "description": "Adds a collapsible Chats workspace group above the original Workspaces browser. Each chat gets its own temporary workspace, and the agent can move a chat into a real workspace."
+  }
+}
